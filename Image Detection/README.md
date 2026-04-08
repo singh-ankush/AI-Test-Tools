@@ -2,7 +2,7 @@
 
 ## Description
 
-`image_analyzer.py` is a Python script that uses AI (via OpenRouter and an OpenAI-compatible API) to analyze images from a URL and generate descriptive insights.
+`imgdetect.py` is a Python script that uses AI (via OpenRouter and an OpenAI-compatible API) to analyze images from a URL and generate descriptive insights.
 
 The script sends both text and image input to a multimodal AI model, which interprets the image and returns a natural language response describing its contents.
 
